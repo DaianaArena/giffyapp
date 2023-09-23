@@ -15,7 +15,7 @@ export default function Home() {
   }
 
   return (
-    <div className=" bg-gradient-to-r from-purple-400 via-pink-500 to-red-500 animate-gradient-x flex flex-col justify-start items-start p-10">
+    <div className=" bg-gradient-to-r from-purple-400 via-pink-500 to-red-500 animate-gradient-x flex flex-col justify-start items-start p-10 w-100">
       <h1 className="text-3xl md:text-3xl lg:text-5xl font-bold mb-4 text-white animate-float">
         Giffy App
       </h1>
@@ -29,7 +29,7 @@ export default function Home() {
         className="font-bold text-lg md:text-2xl lg:text-2xl pl-1 text-yellow-300 "
       >
         
-          Created by Daiana Arena ♥ 
+          Developed by Daiana Arena ♥ 
           
       </a>
       </p>
